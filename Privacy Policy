@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head><title>Privacy Policy - Not Actually Heroes Character Sheets</title></head>
+<body style="font-family: system-ui; max-width: 700px; margin: 40px auto; line-height: 1.5;">
+<h1>Privacy Policy</h1>
+<p><strong>Not Actually Heroes Character Sheets Twitch Extension</strong></p>
+<p>Last updated: October 2026</p>
+
+<h2>What data we collect</h2>
+<p>This extension does not collect, store, or transmit any personal information about viewers.</p>
+<p>The only data it uses is:</p>
+<ul>
+  <li>Character IDs that the broadcaster enters in the extension configuration (these are public D&D Beyond character IDs).</li>
+  <li>Public character data fetched from D&D Beyond for those IDs (name, level, hit points, gear, ability scores, etc.).</li>
+</ul>
+<p>No viewer usernames, IP addresses, or other personal data are collected or stored by the extension.</p>
+
+<h2>Third-party services</h2>
+<p>Character data is retrieved from D&D Beyond’s public character service. D&D Beyond’s own privacy policy applies to any data they process.</p>
+
+<h2>Contact</h2>
+<p>If you have questions, contact the extension developer through the support email listed on the Twitch Extension page.</p>
+</body>
+</html>
